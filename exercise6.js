@@ -1,7 +1,7 @@
 //Scarlet Salinas
 // CMPS2212 Lab 1
 // 03/02/26
-//File: exercise4.js
+//File: exercise6.js
 
 // Exercise 7
 
