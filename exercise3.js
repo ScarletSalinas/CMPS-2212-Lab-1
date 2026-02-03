@@ -1,7 +1,7 @@
 //Scarlet Salinas
 // CMPS2212 Lab 1
 // 03/02/26
-//File: exercise2.js
+//File: exercise3.js
 
 
 const student = {
