@@ -4,7 +4,6 @@
 //File: exercise5.js
 
 // Exercise 6
-
 const vehicle = {
     wheels: 4,
     describe() {
