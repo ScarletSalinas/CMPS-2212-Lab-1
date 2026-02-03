@@ -6,7 +6,6 @@
 // Exercise 7
 
 // person object with properties: 
-// species ('Human') and a method breathe()
 const person = {
     species: 'Human',
     breathe() {
