@@ -27,8 +27,9 @@ expressions, arrow functions, object literals, Object.create(), and prototype-ba
 - [W3Schools](https://www.w3schools.com/js/js_object_this.asp)
 
 # Link to video demo
-[Watch demo here](https://www.youtube.com/watch?v=wSEWHL-QNBE) 
+[Watch demo here](https://youtu.be/OE3yCro1Lwc)
  
+
 
 
 
