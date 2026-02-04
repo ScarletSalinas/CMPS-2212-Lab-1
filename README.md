@@ -1,6 +1,10 @@
 # CMPS2212 GUI Programming
 ## Lab #1: Functions, Objects, and Prototypes
 
+### Lab Description
+JavaScript's core features: function declarations, function
+expressions, arrow functions, object literals, Object.create(), and prototype-based inheritance.
+
 
 ## 📂 Lab Structure
 
@@ -25,6 +29,7 @@
 # Link to video demo
 [Watch demo here](https://www.youtube.com/watch?v=wSEWHL-QNBE) 
  
+
 
 
 
