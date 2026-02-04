@@ -2,7 +2,7 @@
 ## Lab #1: Functions, Objects, and Prototypes
 
 ### Lab Description
-JavaScript's core features: function declarations, function
+Lab 1 explores JavaScript's core features: function declarations, function
 expressions, arrow functions, object literals, Object.create(), and prototype-based inheritance.
 
 
@@ -29,6 +29,7 @@ expressions, arrow functions, object literals, Object.create(), and prototype-ba
 # Link to video demo
 [Watch demo here](https://www.youtube.com/watch?v=wSEWHL-QNBE) 
  
+
 
 
 
