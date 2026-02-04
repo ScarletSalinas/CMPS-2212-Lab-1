@@ -55,12 +55,6 @@ universityLibrary.addCourseBook = function(courseName, title, author, isbn) {
     this.addBook(title, author, isbn);
 }
 
-// Bonus: method to search books by author using an arrow function with filter()
-library.findBooksByAuthor = function(authorName) {
-    return this.books.filter(book => 
-        book.author.toLowerCase().includes(authorName.toLowerCase())
-    );
-};
 
 //Testing
 
@@ -83,8 +77,4 @@ universityLibrary.addCourseBook("Spanish101 101", "Old Benque", "David Ruiz", "0
 universityLibrary.addCourseBook("Literature 101", "Wuthering Heights", "Emily Brontë", "978-0141439556")
 universityLibrary.listAllBooks();
 
-// Testing bonus method
-console.log("\n=== Testing findBooksByAuthor (bonus) ===");
-console.log("Books by 'Fitzgerald':", library.findBooksByAuthor("Fitzgerald"));
-console.log("Books by 'Orwell':", library.findBooksByAuthor("Orwell"));
 
