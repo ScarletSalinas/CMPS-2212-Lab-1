@@ -20,10 +20,11 @@
 
 ## References
 - LLM: DeepSeek, for tutoring, and for guidance when needed.
-- [W3Schools]([https://www.w3schools.com/js/js_object_this.asp])
+- [W3Schools](https://www.w3schools.com/js/js_object_this.asp)
 
 # Link to video demo
 [Watch demo here](https://www.youtube.com/watch?v=wSEWHL-QNBE) 
  
+
 
 
